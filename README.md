@@ -34,10 +34,12 @@ After to configure the script you can run the script
   python3 xlsx2qr.py
 ```
 ### Demo Pictures 
+> From worksheet file
+<img src="worksheet.png" width="385px" align="center">
+
 > Example
 
 <img src="xlsx2qr.png" width="385px" align="center">
-
 
 > Example of qrcode view
 
